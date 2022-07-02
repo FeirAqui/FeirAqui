@@ -44,3 +44,65 @@ sustentabilidade ambiental e social.
 
 <br>
 
+
+👋🏻 **Conheça o nosso time:**
+
+<br>
+
+<img align="left" src="Rectangle 164.png" width="130"><br>
+
+Murilo é nosso Product Owner e designer 👨🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/MuriloSilvs) e [LinkedIn](https://www.linkedin.com/in/murilo-silva-a42873232/)
+
+<br>
+<img align="left" src="Rectangle 160.png" width="130"><br>
+
+Carlos Flores é nosso Product Owner e dev no back-end 👩🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/Flores-Carlos) e [LinkedIn](https://www.linkedin.com/in/carlos-gabriel-f3/)
+
+<br><br>
+<img align="left" src="https://user-images.githubusercontent.com/69727594/147781528-3f76817d-3e87-433f-ad6e-ede9b2b32878.png" alt="Isabelle Victoria" title="Isabelle Victoria" width="130"><br>
+
+Isabelle Victoria é nossa Scrum Master e dev no front-end👩🏻‍🎨
+<br>
+Veja seu [GitHub](https://github.com/Isabvictoriaps) e [LinkedIn](https://www.linkedin.com/in/isabellevictoria)
+
+<br>
+<img align="left" src="Rectangle 166.png" width="130"><br>
+
+Lucas Lira é nosso dev no front-end 👨🏻‍💻
+<br>
+Veja seu [GitHub](https://github.com/Tutinhas) e [LinkedIn](https://www.linkedin.com/in/lucas-lira-86869b1b0/)
+
+<br><br>
+<img align="left" src="Rectangle 169.png" width="130"><br>
+
+Lucas Santiago é nosso designer 👩🏻‍🎨
+<br>
+Veja seu [GitHub](https://github.com/manosanti) e [LinkedIn](https://www.linkedin.com/in/lucassantiagoconceicao/)
+
+<br>
+<img align="left" src="Rectangle 175.png" width="130"><br>
+
+Raphael Oliveira é nosso designer e dev no front-end 👩🏻‍🎨
+<br>
+Veja seu [GitHub](https://github.com/Kapphael) e [LinkedIn](https://www.linkedin.com/in/kapphael/)
+
+<br><br>
+<img align="left" src="chris.png" width="130"><br>
+
+Christian de Souza é nosso dev no back-end 👩🏻‍💻
+<br>
+Veja seu [GitHub]() e [LinkedIn]()
+
+<br>
+<img align="left" src="leao.png" width="130"><br>
+
+Gabriel Leão é nosso dev no back-end 👩🏻‍💻
+<br>
+Veja seu [GitHub]() e [LinkedIn]()
+
+<br><br><br>
+
