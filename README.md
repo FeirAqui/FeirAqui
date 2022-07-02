@@ -1,3 +1,6 @@
+<div align="center">
+<img style="width: 300px;" src="Logo Feiraqui.png"/>
+</div>
 <p align="center"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&color=FF8827&center=true&vCenter=true&lines=Feira+lá+,+Feira+ali+,+FeirAqui;Feira+onde+você+estiver!"(https://git.io/typing-svg>
  </p>
@@ -6,6 +9,20 @@
 </p>
 
 <br>
+
+
+<p><b>🍉 Missão:</b> tornar o acesso a feiras livres fácil para
+todos, estabelecendo uma ponte entre o feirante e o freguês.
+<br> <br>
+<b>🍍 Visão:</b> ser o maior delivery de feiras do Brasil. Para nossos
+clientes e funcionários: uma relação com foco na sustentabilidade, escalabilidade e eficiência,
+sempre visando o crescimento.
+<br> <br>
+<b>🍒 Valores: </b>  modernidade, praticidade, conforto, acessibilidade e
+sustentabilidade ambiental e social.
+</p>
+
+<hr>
 
 🖥️ **Tecnologias utilizadas:**<br><br>
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=FF8827" alt="JavaScript" title="JavaScript">
@@ -27,17 +44,3 @@
 
 <br>
 
-<p><b>Missão:</b> tornar o acesso a feiras livres fácil para
-todos, estabelecendo uma ponte entre o feirante e o freguês.
-<br> <br>
-<b>Visão:</b> ser o maior delivery de feiras do Brasil. Para nossos
-clientes e funcionários: uma relação com foco na sustentabilidade, escalabilidade e eficiência,
-sempre visando o crescimento.
-<br> <br>
-<b>Valores: </b>  modernidade, praticidade, conforto, acessibilidade e
-sustentabilidade ambiental e social.
-</p>
-
-<div align="center">
-<img style="width: 500px;" src="Logo Feiraqui.png"/>
-</div>
